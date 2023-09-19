@@ -4,6 +4,6 @@ app.get('/',(req, res)=>{
   res.send('A Simple Web App .....')
 })
 
-app.listen(8080,()=>{
-  console.log('server runnig on port 8080')
+app.listen(7860,()=>{
+  console.log('server runnig on port 7860')
 })
